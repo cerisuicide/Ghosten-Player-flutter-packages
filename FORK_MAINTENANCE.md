@@ -3,6 +3,9 @@
 This repository contains the player and native Android changes used by the
 maintained Ghosten Player TV fork.
 
+- Maintained fork: `cerisuicide/Ghosten-Player-flutter-packages`
+- Upstream: `GhostenEditor/Ghosten-Player-flutter-packages`
+
 ## Stable branch
 
 `fork-main` is the long-lived branch. Feature branches target it. The app

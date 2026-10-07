@@ -11,6 +11,10 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/to/develop-packages).
 -->
 
+> The maintained Android TV/player improvements live in the public
+> [`cerisuicide/Ghosten-Player-flutter-packages`](https://github.com/cerisuicide/Ghosten-Player-flutter-packages)
+> fork on the `fork-main` branch. The upstream package history remains intact.
+
 TODO: Put a short description of the package here that helps potential users
 know whether this package might be useful for them.
 
